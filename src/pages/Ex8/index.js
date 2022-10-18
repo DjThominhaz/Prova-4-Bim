@@ -5,10 +5,9 @@ export default function Index(){
 
     function sitOrcamento(gastos, ganhos){
          let msg = ''
-            a = (ganhos - gastos) / ganhos * 100 
-            b = (gastos - ganhos) / gastos * 100
+            let a = (ganhos - gastos) / ganhos * 100 
+            let b = (gastos - ganhos) / gastos * 100
     }
-
 
 
 }
