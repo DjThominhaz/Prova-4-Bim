@@ -9,6 +9,10 @@ import Ex7 from './pages/Ex7/index.js'
 import Ex8 from './pages/Ex8/index.js'
 import Ex9 from './pages/Ex9/index.js'
 import Ex10 from './pages/Ex10/index.js'
+import Ex11 from './pages/Ex11/index.js'
+import Ex12 from './pages/Ex12/index.js'
+
+
 
 
 
@@ -26,6 +30,13 @@ export default function AppRoutes() {
                 <Route path='/Ex8' element={<Ex8/>} />
                 <Route path='/Ex9' element={<Ex9/>} />
                 <Route path='/Ex10' element={<Ex10/>} />
+                <Route path='/Ex11' element={<Ex11/>} />
+                <Route path='/Ex11' element={<Ex11/>} />
+                <Route path='/Ex12' element={<Ex12/>} />
+
+
+
+
 
 
 
